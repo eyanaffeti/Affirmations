@@ -6,6 +6,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.eyanaffeti.affirmations.adapter.ItemAdapter
 import com.eyanaffeti.affirmations.data.Datasource
 
+
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
